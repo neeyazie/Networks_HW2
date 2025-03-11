@@ -1,0 +1,3 @@
+Our graphs very much show that the degree distributions of our graphs pretty much center/peak at the average degree of the given graph.
+
+The values of average degrees and of the clustering coefficient of the graph is very much similar to the expected values. However, there are little discrepancies between the calculated average path length and the expected average path length.
